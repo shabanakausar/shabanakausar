@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shabanakausar
+- 👋 Hi, I’m Shabana Kausar
 - 👀 I am a Data Science /Data Analyst.
 - 🌱 I’m working on Generative AI Projects
 - 💞️ I’m looking to collaborate on Data Science/ Gen AI/ LLM
