@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shabanakausar
 - 👀 I am a Data Science /Data Analyst.
 - 🌱 I’m working on Generative AI Projects
-- 💞️ I’m looking to collaborate on Data Science/ Gen AI
+- 💞️ I’m looking to collaborate on Data Science/ Gen AI/ LLM
 - 📫 How to reach me : Email at : shabanakausar046@gmail.com
 
 <!---
